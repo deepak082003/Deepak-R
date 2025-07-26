@@ -1,0 +1,11 @@
+id,name,description,price,category
+1,Laptop,Powerful laptop for work and gaming,1200.00,Electronics
+2,Smartphone,Latest model with advanced camera,800.00,Electronics
+3,Headphones,Noise-cancelling over-ear headphones,150.00,Accessories
+4,Mechanical Keyboard,Tactile feedback gaming keyboard,100.00,Accessories
+5,Monitor,27-inch 4K display,350.00,Electronics
+6,Desk Chair,Ergonomic office chair,200.00,Furniture
+7,Coffee Maker,Automatic drip coffee maker,75.00,Home Appliances
+8,Blender,High-speed kitchen blender,90.00,Home Appliances
+9,Running Shoes,Lightweight athletic shoes,110.00,Apparel
+10,Backpack,Durable travel backpack,60.00,Accessories
